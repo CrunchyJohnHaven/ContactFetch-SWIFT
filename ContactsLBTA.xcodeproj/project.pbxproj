@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		9351EED6206AEA790088EAD7 /* AddContactViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9351EED5206AEA790088EAD7 /* AddContactViewController.swift */; };
 		C7DD44931FBF895E000C0D91 /* ExpandableNames.swift in Sources */ = {isa = PBXBuildFile; fileRef = C7DD44921FBF895E000C0D91 /* ExpandableNames.swift */; };
 		C7DD44D71FC3A52C000C0D91 /* ContactCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = C7DD44D61FC3A52C000C0D91 /* ContactCell.swift */; };
 		C7F2E8451FBA678600D7944D /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = C7F2E8441FBA678600D7944D /* AppDelegate.swift */; };
@@ -17,6 +18,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		9351EED5206AEA790088EAD7 /* AddContactViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AddContactViewController.swift; sourceTree = "<group>"; };
 		C7DD44921FBF895E000C0D91 /* ExpandableNames.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ExpandableNames.swift; sourceTree = "<group>"; };
 		C7DD44D61FC3A52C000C0D91 /* ContactCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContactCell.swift; sourceTree = "<group>"; };
 		C7F2E8411FBA678600D7944D /* ContactsLBTA.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = ContactsLBTA.app; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -61,6 +63,7 @@
 				C7F2E8441FBA678600D7944D /* AppDelegate.swift */,
 				C7F2E8461FBA678600D7944D /* ViewController.swift */,
 				C7F2E8481FBA678600D7944D /* Main.storyboard */,
+				9351EED5206AEA790088EAD7 /* AddContactViewController.swift */,
 				C7F2E84B1FBA678600D7944D /* Assets.xcassets */,
 				C7F2E84D1FBA678600D7944D /* LaunchScreen.storyboard */,
 				C7F2E8501FBA678600D7944D /* Info.plist */,
@@ -142,6 +145,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				9351EED6206AEA790088EAD7 /* AddContactViewController.swift in Sources */,
 				C7DD44D71FC3A52C000C0D91 /* ContactCell.swift in Sources */,
 				C7DD44931FBF895E000C0D91 /* ExpandableNames.swift in Sources */,
 				C7F2E8471FBA678600D7944D /* ViewController.swift in Sources */,
